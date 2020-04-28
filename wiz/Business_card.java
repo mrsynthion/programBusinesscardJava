@@ -61,7 +61,7 @@ public class Business_card {
 **/
     @Override
     public String toString() {
-        return "My businesscard :" +
+        return "\n"+"My businesscard: " +
                 "id = " + id + '\'' +
                 ", firm_name='" + firm_name + '\'' +
                 ", firm_adress='" + firm_adress + '\'' +
